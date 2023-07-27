@@ -2,10 +2,10 @@
   "response": [
     {
       "datetime": 1690391194,
-      "filename": "Cherish-OS-v4.10-20230726-1709-merlinx-UNOFFICIAL-GApps.zip",
-      "id": "5eb63bbbefj4red093cb22bb8f5acdc3",
+      "filename": "Cherish-OS-v4.10-20230727-1709-merlinx-UNOFFICIAL-VANILLA.zip",
+      "id": "5eb63bbbefj4red093cb22bb8f5acbc3",
       "romtype": "unofficial",
-      "size": 1668862224,
+      "size": 1669862224,
       "url": "https://example.com/ota-package.zip",
       "version": "4.10"
     }

@@ -2,11 +2,11 @@
   "response": [
     {
       "datetime": 1690391194,
-      "filename": "Cherish-OS-v4.10-20230727-1709-merlinx-UNOFFICIAL-VANILLA.zip",
+      "filename": "Cherish-OS-v4.10-20230727-1243-merlinx-UNOFFICIAL-GApps.zip",
       "id": "5eb63bbbefj4red093cb22bb8f5acbc3",
       "romtype": "unofficial",
       "size": 1669862224,
-      "url": "https://example.com/ota-package.zip",
+      "url": "https://drive.google.com/file/d/14vy9SxfZkZ8xLc9XQyx9iisYRHSiUlBj/view?usp=drivesdk",
       "version": "4.10"
     }
   ]
